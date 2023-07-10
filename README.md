@@ -1,3 +1,5 @@
+This is a refreshed fork. Credits to [rostok](https://github.com/rostok/)
+
 # cdadl
 
 cdadl is a Node.js script for downloading videos from cda.pl. This shameful code is crap but should get you idea how to crawl pages, deobfuscate JS and download files.
